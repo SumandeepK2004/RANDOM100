@@ -1,0 +1,24 @@
+*{
+    font-family:Georgia,serif;
+    text-align: center;
+}
+h1{
+    color:darkred;
+    font-family:Impact,sans-serif;
+    text-align: center;
+    
+}
+h2{
+    color: darkred;
+    font-family:Impact,sans-serif;
+    text-align: center;
+}
+ div{
+    width:500px;
+    text-align: center;
+    margin-left: 500px;
+} 
+   
+.para{
+    text-align:center;
+}
